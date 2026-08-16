@@ -230,7 +230,7 @@ Questions or issues? Reach out on Telegram: **[@NetraIR](https://t.me/NetraIR)**
 * 请像对待机密信息一样对待你的 Worker 地址 —— 它是进入你面板的入口。
 
 ---
-
+.
 #### 获取支持
 
 有问题或遇到故障？请通过 Telegram 联系：**[@NetraIR](https://t.me/NetraIR)**
